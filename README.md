@@ -9,7 +9,8 @@ This project applies machine learning techniques to analyze cricket players' per
 - `03_eda_playerwise.ipynb` – Exploratory analysis of player-wise performance  
 - `04_clustering.ipynb` – K-Means clustering of players  
 - `05_ranking_and_playing11.ipynb` – Ranking players and generating Playing XI  
-- `06_final_combined.ipynb` – Combined notebook with clustering and ranking logic  
+- `06_final_combined.ipynb` – Combined notebook with clustering and ranking logic
+- Final_Review_Presentation.pptx` – Project review presentation highlighting methodology, results, and future work 
 
 ## Objectives
 
